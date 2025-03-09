@@ -1,4 +1,5 @@
 import Hello from "@/app/components/hello";
+import React from 'react';
 export default function Home() {
   console.log('what am i doing here?');
 
